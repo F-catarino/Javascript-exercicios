@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+
+#newNumber {
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 2px;
+}

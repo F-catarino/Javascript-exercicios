@@ -1,0 +1,33 @@
+h1 {
+    color: #ffd900;
+    text-shadow: 5px 5px 10px #242424;
+
+}
+
+body {
+    background-color: #242424;
+    font-family: Verdana;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 0;
+}
+
+.lamp-container {
+    text-align: center;
+}
+
+#lampImage {
+    max-width: 250px;
+    height: auto;
+    margin-bottom: 80px;
+}
+
+#toggleButton {
+    border-radius: 3px;
+    border-color: #ffd900;
+    padding: 10px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}

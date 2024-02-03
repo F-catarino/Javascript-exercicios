@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    font-size: 24px;
+}
+
+input {
+    width: 80px;
+    height: 30px;
+    border-radius: 1px;
+    border-color: #007BFF;
+}
+
+h1,
+h3 {
+    color: #3a0035;
+}
+
+button {
+    margin: 5px;
+    border-radius: 1px;
+    border-color: #3a0035;
+}
+
+p {
+    font-size: 40px;
+}
+
+#calc {
+    font-size: 75px
+}
+
+#result {
+    font-size: 50px;
+}
